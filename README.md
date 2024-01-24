@@ -1,4 +1,4 @@
-# Criando um RANSOWARE com Python - Desafio DIO
+# Criando um RANSOMWARE com Python - Desafio DIO
 
 ## Característica
 
